@@ -11,7 +11,7 @@ Eoffice CMS is an content management system for indonesian government to manage 
 * Administrator
 
 #Implementasi
-* eoffice.bplhdjabar.go.id
+* http://eoffice.bplhdjabar.go.id
 
 #Developer
 * Taufik Sulaeman P (taufiksu@gmail.com)
